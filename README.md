@@ -32,7 +32,7 @@ Have an idea? [Submit a feature request](https://github.com/logspace-io/issues/i
 
 ## 📧 Security Issues
 
-For security vulnerabilities, please email security@logspace.io instead of opening a public issue.
+For security vulnerabilities, please email support@logspace.io instead of opening a public issue.
 
 ## 💬 Community
 
